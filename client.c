@@ -1,4 +1,3 @@
-// Group D
 // Author: Shengfang Ma
 // Email: shengfang.ma@okstate.edu
 // Description: this is the client side of tcp
