@@ -1,5 +1,4 @@
-//// Group D
-// Author: Reem Alzouri, Shengfang Ma
+// Author: Shengfang Ma, Reem Alzouri
 // Email: shengfang.ma@okstate.edu
 // Description: this is the dataserver to communicate with servers
 
